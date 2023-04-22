@@ -1,0 +1,18 @@
+.inputField__label {
+  display: grid;
+  grid-row-gap: 10px;
+  font-size: 16px;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 400px;
+}
+
+.inputField__field {
+  border: none;
+  font-size: 16px;
+  padding: 16px 20px;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 400px;
+  font-weight: bold;
+}
